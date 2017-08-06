@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               2ForLocal
+tagline:             Spend $2 Bills Locally
+url:                 https://maxwell-conser.github.io/2ForLocal-site
 paginate:            1
 baseurl:             ""
 
