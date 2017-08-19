@@ -6,7 +6,7 @@ title:               2ForLocal
 tagline:             Spend $2 Bills Locally
 url:                 https://maxwell-conser.github.io/2ForLocal-site/
 paginate:            3
-baseurl:             ""
+baseurl:             "https://maxwell-conser.github.io/2ForLocal-site/"
 
 # Assets
 #
